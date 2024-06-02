@@ -1,0 +1,13 @@
+[app]
+name = "Blaine's Battery"
+category = "Badge"
+
+[entry]
+class = "BlaineApp"
+
+[metadata]
+author = "Blaine"
+license	= "MIT"
+url = "https://github.com/paperclipbadger/badgebattery"
+description = "A battery app that works!"
+version = "0.1"
